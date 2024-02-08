@@ -1,0 +1,22 @@
+.background {
+    background-color: rgb(244, 98, 98);
+}
+.justify{
+    text-align: center;
+    align-items: center;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+}
+li {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+}
+.underline {text-decoration: underline;}
+.bottom {
+    text-align: right ;
+    align-items: baseline;
+}
